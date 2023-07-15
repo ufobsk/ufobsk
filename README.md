@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Iñaki Goicoechea</h1>
-<h3 align="center">A passionate Frontend Developer from Argentina</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+Buenas gente, mi nombre es Iñaki, actualemente estudio Analista Programador en la Universidad Abierta Interamericana (UAI) de modalidad online para compatibilizar con el trabajo.
 
-
-- 🔭 I’m currently working on **my personal projects**
-
-- 🌱 I’m currently learning **Programmer Analyst and React JS**
-
-- 📫 How to reach me **igoico10@gmail.com**
+Actualmente estoy terminado la carrera Full Stack Web de Coderhouse; certificando la finalizacion de los cursos de Desarrollo Web, JavaScript, ReactJS y cursando Programacion Backend en donde me especializaré en el Stack MERN (MongoDB, ExpressJS, ReactJS y NodeJS).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
