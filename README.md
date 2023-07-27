@@ -1,6 +1,6 @@
-Buenas gente, mi nombre es Iñaki, actualemente estudio Analista Programador en la Universidad Abierta Interamericana (UAI) de modalidad online para compatibilizar con el trabajo.
+Buenas gente, mi nombre es Iñaki, soy Desarrollador Frontend, estoy realizando la carrera de Analista Programador en la Universidad Abierta Interamericana (UAI) de modalidad online para compatibilizar con el trabajo.
 
-Actualmente estoy terminado la carrera Full Stack Web de Coderhouse; certificando la finalizacion de los cursos de Desarrollo Web, JavaScript, ReactJS y cursando Programacion Backend en donde me especializaré en el Stack MERN (MongoDB, ExpressJS, ReactJS y NodeJS).
+A la par me encuentro terminando la carrera Full Stack Web de Coderhouse; certificando la finalizacion de los cursos de Desarrollo Web, JavaScript, ReactJS y cursando Programacion Backend en donde me especializaré en el Stack MERN (MongoDB, ExpressJS, ReactJS y NodeJS).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
