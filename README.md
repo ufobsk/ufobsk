@@ -1,6 +1,6 @@
 # Iñaki Goicoechea
 
-Buenas gente, mi nombre es Iñaki, soy Desarrollador Full Stack, y estoy realizando la carrera de Analista Programador en la Universidad Abierta Interamericana (UAI) de modalidad online para compatibilizar con el trabajo.
+Buenas, mi nombre es Iñaki, soy Desarrollador Full Stack, y estoy realizando la carrera de Analista Programador en la Universidad Abierta Interamericana (UAI) de modalidad online para compatibilizar con el trabajo.
 
 Cuento con la certificación de finalizacion de los cursos de Desarrollo Web, JavaScript, ReactJS y Programacion Backend en donde me especializé en el Stack MERN (MongoDB, ExpressJS, ReactJS y NodeJS).
 
