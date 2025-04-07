@@ -7,7 +7,6 @@ Cuento con la certificación de finalizacion de los cursos de Desarrollo Web, Ja
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/i%C3%B1aki-goicoechea-4636b9236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iñaki goicoechea" height="30" width="40" /></a>
-<a href="https://fb.com/iñaki goicoechea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iñaki goicoechea" height="30" width="40" /></a>
 <a href="https://instagram.com/ufobsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ufobsk" height="30" width="40" /></a>
 </p>
 
