@@ -1,6 +1,6 @@
 # Iñaki Goicoechea
 
-👨‍💻 23 años
+👨‍💻 24 años
 📍 Villa Consitución, Santa Fe, Argentina.
 🌟 Desarrollador Web Full Stack
 📖 Estudiante de en la carrera "Analista Programador" en la Universidad Abierta Interamericana (UAI) de modalidad online para compatibilizar con el trabajo.
