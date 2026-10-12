@@ -5,7 +5,7 @@
 🌟 Desarrollador Web Full Stack
 📖 Estudiante de en la carrera "Analista Programador" en la Universidad Abierta Interamericana (UAI) de modalidad online para compatibilizar con el trabajo.
 
-Cuento con la certificación de finalizacion de los cursos de Desarrollo Web, JavaScript, ReactJS y Programacion Backend en donde me especializé en el Stack MERN (MongoDB, ExpressJS, ReactJS y NodeJS).
+Certificados de finalizacion de los cursos de Desarrollo Web, JavaScript, ReactJS y Programacion Backend en donde me especializé en el Stack MERN (MongoDB, ExpressJS, ReactJS y NodeJS).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
