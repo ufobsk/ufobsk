@@ -18,7 +18,3 @@ Cuento con la certificación de finalizacion de los cursos de Desarrollo Web, Ja
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufobsk&show_icons=true&locale=en&layout=compact" alt="ufobsk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ufobsk&show_icons=true&locale=en" alt="ufobsk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ufobsk&" alt="ufobsk" /></p>
-
